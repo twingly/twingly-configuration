@@ -9,7 +9,7 @@ Configuration help for some of our services:
 Add this line to your application's Gemfile:
 
 ```ruby
-gem "twingly-configuration", git: "git@github.com:twingly/twingly-configuration"
+gem "twingly-configuration", github: "twingly/twingly-configuration"
 ```
 
 And then execute:
