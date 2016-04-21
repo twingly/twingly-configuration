@@ -1,4 +1,3 @@
-require 'uri'
 require 'resolv'
 
 module Twingly
