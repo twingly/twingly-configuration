@@ -1,3 +1,9 @@
+# Repository archived ☠️
+
+We have stopped using SRV records. Our projects use [twingly/twingly-amqp](https://github.com/twingly/twingly-amqp) to read AMQP servers from the environment instead.
+
+---
+
 # Twingly::Configuration
 
 Configuration help for some of our services:
